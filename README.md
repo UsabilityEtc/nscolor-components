@@ -11,7 +11,7 @@ platform :osx
 use_frameworks!
 
 target 'MyApp' do
-  pod 'NSColorComponents', :git => 'https://github.com/UsabilityEtc/nscolor-components'
+  pod 'NSColorComponents', :git => 'https://github.com/jeffreymorganio/nscolor-components'
 end
 ```
 
